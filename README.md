@@ -1,20 +1,3 @@
-```text
-┌──────────────────────────┐
-│                          │
-│                          │
-│                          │
-│                          │
-│                          │
-└──────────────────────────┘
-untitled (self-portrait), 21
-ascii on dark mode
-```
-
-# 💫 About Me:
-21y<br>
-
-
-# 💻 Tech Stack:
 ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![](https://github-readme-stats.shion.dev/api?username=branislav0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=branislav0&theme=dark&hide_border=false)<br/>
