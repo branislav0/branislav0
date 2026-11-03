@@ -2,8 +2,10 @@
 
 ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![TestCafe](https://img.shields.io/badge/testcafe-%2336B6E5.svg?style=for-the-badge&logo=testcafe&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github_actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/azure_devops-%230071C5.svg?style=for-the-badge) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Linux Mint](https://img.shields.io/badge/linux_mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-![](https://github-readme-stats.shion.dev/api?username=branislav0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=branislav0&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=branislav0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>
+  <img height="120" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=branislav0&theme=github_dark&border_color=30363d&custom_title=GitHub%20Stats&include_all_commits=false&count_private=false">
+  <img height="120" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=branislav0&theme=github-dark&border=30363d">
+  <img height="120" alt="Most used languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=branislav0&theme=github_dark&border_color=30363d&layout=compact&hide=html&include_all_commits=false&count_private=false">
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
