@@ -2,7 +2,7 @@
 
 <p>
   <img height="150" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=branislav0&custom_title=GitHub%20Stats&bg_color=0d1117&border_color=30363d&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&ring_color=ffffff&include_all_commits=false&count_private=false">
-  <img height="150" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=branislav0&background=0D1117&border=30363D&stroke=30363D&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&dates=8B949E">
+  <img height="150" alt="GitHub streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=branislav0&background=0D1117&border=30363D&stroke=30363D&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&dates=8B949E">
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
